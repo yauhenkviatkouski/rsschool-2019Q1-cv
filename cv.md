@@ -5,7 +5,7 @@
 * email: kvetkovski@gmail.com
 * skype: live:kvetkovski
 * Minsk, Belarus
-* 
+
 ## Summary:
 Over 7 years of experience in banking and leasing.
 
