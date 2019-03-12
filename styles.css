@@ -1,0 +1,11 @@
+.cv {
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+    align-content: center;
+}
+
+#avatar {
+  float: right;
+}
+
