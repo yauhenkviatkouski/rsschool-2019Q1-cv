@@ -1,9 +1,12 @@
 .cv {
-
-    width: 1024px;
+    width: 700px;
     margin: auto;
+    padding: 20px;
     align-content: center;
-    background: #d9fcef;
-    
+}
+
+#avatar {
+  width: 170px;
+  float: right;
 }
 
